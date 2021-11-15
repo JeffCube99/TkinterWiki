@@ -10,3 +10,6 @@ Welcome to TkinterWiki
 
 ..  toctree::
     :maxdepth: 2
+
+    databases/index
+    structure/index
