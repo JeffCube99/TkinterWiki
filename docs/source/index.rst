@@ -13,3 +13,4 @@ Welcome to TkinterWiki
 
     databases/index
     structure/index
+    internet/index

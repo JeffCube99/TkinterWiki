@@ -131,6 +131,12 @@ Below is a simple MVC appplication showcasing the controller as a middleman:
             main()
 
 
+Server Client MVC
+-----------------
+
+When you start to deal with applications in a client-server setting. You may opt for keeping the model and controller
+on the server side while the view is on the client side. See Below for an example
+
 How To Handle Increased Complexity
 ==================================
 
